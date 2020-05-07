@@ -1,0 +1,1 @@
+include ':app','mp3encoder','ffdecoderaudio','audioplayer','videoplayer','audioRecorder','mediaCodecAudioEncoder','cameraPreview','cameraPreviewRecorder','openGLRenderer'
